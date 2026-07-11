@@ -12,6 +12,7 @@ This project detects and localizes multiple object classes in real time from a v
 - **YOLOv5** — pre-trained object detection model
 - **OpenCV** — video capture and frame rendering
 - **TensorFlow**
+- **BotSORT**
 
 ## Features
 
