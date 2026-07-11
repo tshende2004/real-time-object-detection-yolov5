@@ -48,4 +48,4 @@ python detect.py --source 0   # 0 for webcam, or path to a video file
 
 ## Author
 
-**Tejashree Shende** — [LinkedIn](https://www.linkedin.com/in/tejashree-shende-696b45312) · shendetejashree22@gmail.com
+**Tejashree Shende** — [LinkedIn](www.linkedin.com/in/tejashree-shende-696b45312) · shendetejashree22@gmail.com
